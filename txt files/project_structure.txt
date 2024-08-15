@@ -1,0 +1,11 @@
+Problem Statement 
+  Identify crime types and location based on historical Data.
+  predict crime rate using historical Data.
+
+Data Gathering 
+ Data gotten from Gov.police.uk- Cleveland_police-01/23-06/24
+Data Exploration
+Data cleaning
+Data Preparation 
+Data Modelling
+Deployment?
